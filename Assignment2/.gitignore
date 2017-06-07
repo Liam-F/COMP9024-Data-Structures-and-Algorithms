@@ -15,9 +15,6 @@ local.properties
 .loadpath
 .recommenders
 
-# Net structure
-src/net/datastructures
-
 # External tool builders
 .externalToolBuilders/
 
